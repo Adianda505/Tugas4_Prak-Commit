@@ -7,3 +7,12 @@
     background-color: rgb(73, 47, 14);
     color: #f9f9f9;
 }
+
+.content{
+    margin-top: 20px;
+}
+
+.content img{
+    border-radius: 30px;
+    padding-left: 10px;
+}
