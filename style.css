@@ -1,4 +1,9 @@
-.judul{
-    background-color: rgb(77, 46, 35);
-    color: white;
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.logo{
+    background-color: rgb(73, 47, 14);
+    color: #f9f9f9;
 }
