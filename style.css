@@ -23,7 +23,11 @@
     width: 260px;
     height: 60px;
     color: #f9f9f9;
-    border-radius: 5px;
+    border-radius: 20px;
+    position: absolute;
+    padding: 10px;
+    top: 250px;
+    left: 900px;
 }
 
 .quote h1{
